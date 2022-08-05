@@ -1,0 +1,17 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/BhuTukaExpandedOne-Regular.ttf",
+      "sha1": "e3ae053c9bf8798aedea1e7f8109b0ad85c05ae6"
+    },
+    {
+      "path": "src/assets/fonts/Fontspring-molde-semicond-bold.otf",
+      "sha1": "d96197be708e8266402ad7c60accd92b90a487ad"
+    },
+    {
+      "path": "src/assets/fonts/SquarePeg-Regular.ttf",
+      "sha1": "01e51df13cb952f3b51e267d66982b176c440286"
+    }
+  ]
+}
